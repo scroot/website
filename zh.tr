@@ -139,6 +139,20 @@ testing
 memory_management 
 内存管理 
 -----
+fast_comp1
+V compiles between ≈100k and 1.2 million lines of code per second per CPU core. 
+V语言单CPU内核每秒可编译约10万至120万行代码。
+-----
+fast_comp2
+V compiles itself in 0.15 - 0.6 seconds.
+V语言在0.15 - 0.6秒内编译本身。
+-----
+fast_comp3
+-----
+fast_comp4
+-----
+no_null
+没有null 
 -----
 
 
